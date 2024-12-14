@@ -5,7 +5,7 @@
 </p>
 
 
-
+          
 # SDK for the ParaSwap API
 
 Refer to the documentation of the ParaSwap API: https://developers.paraswap.network
